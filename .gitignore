@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/sas,windows
 # Edit at https://www.gitignore.io/?templates=sas,windows
 
@@ -43,4 +42,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.giti
+# End of https://www.gitignore.io/api/sas,windows
